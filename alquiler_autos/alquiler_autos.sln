@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "alquiler_autos", "alquiler_autos\alquiler_autos.vbproj", "{E9FEA5B7-4B7A-4858-A98B-62F413FFB50F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9FEA5B7-4B7A-4858-A98B-62F413FFB50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FEA5B7-4B7A-4858-A98B-62F413FFB50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FEA5B7-4B7A-4858-A98B-62F413FFB50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FEA5B7-4B7A-4858-A98B-62F413FFB50F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05A04F55-C2F8-4190-927D-A255F2CD0135}
+	EndGlobalSection
+EndGlobal
